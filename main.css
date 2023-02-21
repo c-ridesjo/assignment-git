@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
@@ -62,3 +63,9 @@
   font-size: 1rem;
   color:rgb(9, 150, 163)
  }
+=======
+img {
+    max-width: 25%;
+    height: auto;
+}
+>>>>>>> 3ffa58c (added more photos)
