@@ -8,17 +8,19 @@
 img {
     max-width: 25%;
     height: auto;
+    border-radius: 0.3rem;
 }  
 
   body {
     background: white;
     color: black;
+    padding: 0 10%;
   }
 
   #header {
     width: 100%;
     height: 100vh;
-  /*   background-image: url(/Images/ 
+      /*   background-image: url(/Images/ 
     background-size: 30%;
     background-repeat: no-repeat;
     background-position: bottom 40% right 20%;*/
@@ -67,3 +69,4 @@ img {
   font-size: 1rem;
   color:rgb(9, 150, 163)
  }
+
