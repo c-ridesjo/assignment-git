@@ -1,20 +1,27 @@
 <<<<<<< HEAD
 *{
-    margin: 0;
-    padding: 0;
-    font-family: 'Noto Sans', sans-serif;
-    box-sizing: border-box;
-  }
-  
+  margin: 0;
+  padding: 0;
+  font-family: 'Noto Sans', sans-serif;
+  box-sizing: border-box;
+}
+
+img {
+    max-width: 25%;
+    height: auto;
+    border-radius: 0.3rem;
+}  
+
   body {
     background: white;
     color: black;
+    padding: 0 10%;
   }
 
   #header {
     width: 100%;
     height: 100vh;
-  /*   background-image: url(/Images/ 
+      /*   background-image: url(/Images/ 
     background-size: 30%;
     background-repeat: no-repeat;
     background-position: bottom 40% right 20%;*/
@@ -63,9 +70,3 @@
   font-size: 1rem;
   color:rgb(9, 150, 163)
  }
-=======
-img {
-    max-width: 25%;
-    height: auto;
-}
->>>>>>> 3ffa58c (added more photos)
